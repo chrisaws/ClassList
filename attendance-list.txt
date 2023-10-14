@@ -3,4 +3,3 @@ S/N                     NAME
 2 - Chinanu
 3 - Chinedu
 4 - Chizzy
-5 - Ebenezer
