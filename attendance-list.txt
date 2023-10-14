@@ -4,3 +4,4 @@ S/N                     NAME
 3 - Chinedu
 4 - Chizzy
 5 - Henry
+6 - Korede
